@@ -1,5 +1,8 @@
 _repo: Le-Sabotage_57766
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57766-h/images/cover.jpg
 creator:
   author:
     agent_name: Pouget, Emile
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49592
     wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_Pouget
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57766#Le-Sabotage
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Politique
