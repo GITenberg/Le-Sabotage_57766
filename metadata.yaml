@@ -1,0 +1,32 @@
+_repo: Le-Sabotage_57766
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pouget, Emile
+    alias: Pouget, Émile
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '49592'
+    url: http://www.gutenberg.org/2009/agents/49592
+    wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_Pouget
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Politique
+gutenberg_issued: '2018-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57766'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labor movement'
+- !lcsh 'Labor'
+- !lcc 'HD'
+- !lcsh 'Sabotage'
+- !lcsh 'Working class'
+- GITenberg
+title: Le Sabotage
+url: http://www.gutenberg.org/ebooks/57766
